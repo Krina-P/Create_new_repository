@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DugRC6Nq1XNpxUpqYjVVrnXAJSuOWKMeGOSoAhlY//4xPCGZ9Yn1qHEEGyH12nob2WGMXzcdsjUo4g8xah7FmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Krina.Patel\\source\\repos\\my-books3\\my-books3\\my-books3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krina.Patel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
